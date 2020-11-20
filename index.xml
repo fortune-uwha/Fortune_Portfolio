@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Fortune Uwha</title>
+    <link>https://FortuneUwha.github.io/Fortune_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Fortune Uwha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://FortuneUwha.github.io/Fortune_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Road Traffic Accident - The Modern Killer</title>
+      <link>https://FortuneUwha.github.io/Fortune_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://FortuneUwha.github.io/Fortune_Portfolio/post/project-2/</guid>
+      <description>Cars are the backbone of the modern transportation system worldwide. However, the excessive number of cars tend to cause traffic accidents leading to numerous causalities. Is it possible to reduce the number of car accidents to zero? Sounds impossible, but with the use of information technology a huge impact can be made in terms of reducing the number.
+For this project, I discussed the role of IT in the prevention of car accidents in the US, in order to reduce the number of accidents through data analysis and to find effective solutions to ensure reducing the loss of life and equipment.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: The FIFA World Cup</title>
+      <link>https://FortuneUwha.github.io/Fortune_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 21 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://FortuneUwha.github.io/Fortune_Portfolio/post/project-1/</guid>
+      <description>The Challenge:
+ How many matches were played each world cup year from 1930. Total goals scored for each tournament year. All teams who have reached finals and how many times. All teams who have reached semis and how many times. How many goals and average goals scored in all semi-finals. How many goals and average goals scored in all quarter-finals. How many goals and average number scored in all finals How many matches were played outside quarter-finals and above.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://FortuneUwha.github.io/Fortune_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://FortuneUwha.github.io/Fortune_Portfolio/contact/</guid>
+      <description>Follow me on these social media platform.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/fortune-uwha   Twitter: https://twitter.com/fortune_uwha   Github: https://github.com/fortune-uwha   Medium: https://medium.com/@fortune.uwha    </description>
+    </item>
+    
+  </channel>
+</rss>
