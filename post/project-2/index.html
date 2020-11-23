@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Project 2: Road Traffic Accident - The Modern Killer | Fortune Uwha</title>
+    <title>Project 2: Road Traffic Accident - The Modern Killer | Fortune Oluchi Uwha</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="A short car accident report discussing the role of IT in the prevention of car accidents in the US">
     <meta name="generator" content="Hugo 0.78.2" />
@@ -37,7 +37,7 @@
 <meta itemprop="description" content="A short car accident report discussing the role of IT in the prevention of car accidents in the US">
 <meta itemprop="datePublished" content="2020-08-10T11:00:59-04:00" />
 <meta itemprop="dateModified" content="2020-08-10T11:00:59-04:00" />
-<meta itemprop="wordCount" content="112">
+<meta itemprop="wordCount" content="969">
 
 
 
@@ -63,7 +63,7 @@
   <div class="flex-l justify-between items-center center">
     <a href="https://fortune-uwha.github.io/Fortune_Portfolio/" class="f3 fw2 hover-white no-underline white-90 dib">
       
-        Fortune Uwha
+        Fortune Oluchi Uwha
       
     </a>
     <div class="flex-l items-center">
@@ -202,19 +202,44 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Cars are the backbone of the modern transportation system worldwide. However, the excessive
-number of cars tend to cause traffic accidents leading to numerous causalities.
-Is it possible to reduce the number of car accidents to zero? Sounds impossible, but with the use
-of information technology a huge impact can be made in terms of reducing the number.</p>
-<p>For this project, I discussed the role of IT in the prevention of car accidents in the US,
-in order to reduce the number of accidents through data analysis and to find effective 
-solutions to ensure reducing the loss of life and equipment.</p>
-<p>Data visualisation tool: Microsoft PowerBI</p>
-<p><figure>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Data visualisation tool: Microsoft PowerBI</p>
+<p>In this project, I discussed the role of IT in the prevention of car accidents in the US, in order to reduce the number of accidents through data analysis and to find effective solutions to ensure reducing the loss of life and equipment.</p>
+<p>The dataset for this project originates from kaggle. It can be downloaded <a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">here</a>. The dataset was donated by Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath, after being published in the article <em>“A Countrywide Traffic Accident Dataset”</em></p>
+<p><strong>ROAD ACCIDENT REPORT</strong></p>
+<p>Cars are the backbone of the modern transportation system worldwide. However, the excessive number of cars tend to cause traffic accidents leading to numerous causalities. In the USA, more than 38,000 people die every year in road crashes, and an additional 4.4 million are injured seriously enough to require medical attention. The economic and societal impact of the traffic accidents costs the U.S citizens billions of dollars every year. The U.S suffers the most road crash deaths of any high-income country, about 50% higher than similar countries in Western Europe, Canada, Australia, and Japan.</p>
+<p>Source: <a href="https://www.asirt.org/safe-travel/road-safety-facts/#:~:text=Annual%20Global%20Road%20Crash%20Statistics,every%20day%20on%20the%20roads.&amp;text=More%20than%20half%20of%20all,pedestrians%2C%20cyclists%2C%20and%20motorcyclists">Annual Global Road Crash Statistics [ASIRT]</a></p>
+<p>Is it possible to reduce the number of car accidents to zero? Sounds impossible, but with the use of information technology a huge impact can be made in terms of reducing that number. There are two main approaches for dealing with traffic safety problems, one of which is the proactive approach, this focuses on preventing potential unsafe road conditions from occurring in the first place. For the effective implementation of this approach, severity prediction is paramount, with information technology, we can identify the patterns of how these serious accidents happen and the key factors, and we might be able to implement well-informed actions and better allocate financial and human resources.</p>
+<p><strong>DATA SOURCE</strong></p>
+<p>This is a <strong>countrywide traffic accident dataset</strong>, which covers <strong>49 states</strong> of the United States. The data is continuously being collected from <strong>February 2016 to December 2019</strong>, using several data providers, including three APIs which provide streaming traffic event data as shown below:</p>
+<figure>
+    <img src="https://fortune-uwha.github.io/Fortune_Portfolio//images/Data_source.jpg"/> 
+</figure>
+
+<p>The dataset contains <strong>2,974,335(2.97 million)</strong> rows and <strong>49</strong> columns (Quite a large dataset). Although this is a record of data of just 3 years it is both noteworthy and alarming that it contains about 2.97 million accidents already.</p>
+<figure>
     <img src="https://fortune-uwha.github.io/Fortune_Portfolio//images/traffic_dashboard.png"/> 
 </figure>
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6717111462013345792/">Link to Project Post on LinkedIn</a></p>
+<p>Upon performing data cleaning, pre-processing and filtering, the raw data has been converted into cleaned, filtered and processed data to create a coherent and functional dashboard, using the Power BI visualization tool.</p>
+<p><strong>Some salient points to note from the dashboard above:</strong></p>
+<p><em>-	More accident happens in the Eastern time zone. States like Pennsylvania, Florida and South Carolina fall in the Eastern time zone.</em></p>
+<p><em>-	Severity is a paramount feature in this dataset, since it shows us the severity of an accident. From 1(low) – 4(high). There are hardly any accidents with low severity (1), the plot shows that most accidents happen on the right side of the road with a severity equal to 2(average) followed by 3(above average), which is unfortunate.</em></p>
+<p><em>-	Major accidents happen in big states. Topping the chart for accident prone states are California, Texas, and Florida. Most accidents also happen in cities like Houston, Charlotte, Los Angeles, Austin and Dallas.</em></p>
+<p>As mentioned earlier, a key approach in reducing road traffic accidents, is identifying the                         underlying factors behind the traffic accident. Information technology plays a huge role in this. Using the Power BI visualisation tool, take a look at the dashboard showing factors affecting accident severity:</p>
+<figure>
+    <img src="https://fortune-uwha.github.io/Fortune_Portfolio//images/accident_severity.png"/> 
+</figure>
+
+<p><strong>Some observations from the dashboard above:</strong></p>
+<p><em>-	Surprisingly most accidents occur when the weather is clear and the wind is calm. Maybe 	people drive more carefully when the weather is bad.</em></p>
+<p><em>-	Most accidents occur during the day compared to night time.</em></p>
+<p><em>-	Another area to look at is the proximity of a traffic signal in a nearby location close to where accidents occur, and in most cases as shown in the chart, there’s no traffic signal close	 by and this affects severity since traffic signals help decongest roads.</em></p>
+<p><strong>The Role of Information Technology in the Prevention of Car Accidents</strong></p>
+<p>The collection and proper use of Big data may hold the key to effective prevention of car accidents. Patterns can be noticed when factors such as proximity of traffic objects or signals, weather conditions, wind direction and time of day are analyzed. One solution maybe to institute devices that make use of this patterns, sending out alerts to drivers suggesting alternative routes to take to avoid heavy traffic. Thus, decreasing congestion which in turn decreases road accidents, improving everybody’s safety and preventing more road crashes.</p>
+<p>There are two approaches to using informative technology in regards to road accidents, one way is to provide protective gears that would reduce the effect of the accident such as seatbelts and airbags, this method has been in use for years although it helps to reduce severity of the impact of an accident on the lives involved, it does not effectively reduce road accidents, a more effective way however would be to predict this accidents before they even occur, thereby avoiding such accidents or providing troops on ground to reduce the effects on lives and equipment, all this can be brought about through a predictive analytic software that makes use of data collected over the years to make calculated predictions of locations where accidents could occur. This software would take into consideration factors such as weather conditions, traffic signals, time of day which affected previous crashes in order to determine where the likeliest places for crashes are and where they might happen.</p>
+<p><strong>Conclusion</strong></p>
+<p>It may be impossible to bring the number of road traffic accidents to zero, but the implementation of information technology in the form of big data can effectively reduce the number noteworthily</p>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6717111462013345792/">Link to Project Post on LinkedIn</a></p>
 <ul class="pa0">
   
 </ul>
@@ -237,7 +262,7 @@ solutions to ensure reducing the loss of life and equipment.</p>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://fortune-uwha.github.io/Fortune_Portfolio/" >
-    &copy;  Fortune Uwha 2020 
+    &copy;  Fortune Oluchi Uwha 2020 
   </a>
     <div>
 

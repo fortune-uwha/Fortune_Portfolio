@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Fortune Uwha</title>
+    <title>Projects on Fortune Oluchi Uwha</title>
     <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/</link>
-    <description>Recent content in Projects on Fortune Uwha</description>
+    <description>Recent content in Projects on Fortune Oluchi Uwha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://fortune-uwha.github.io/Fortune_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,9 @@
       <pubDate>Mon, 10 Aug 2020 11:00:59 -0400</pubDate>
       
       <guid>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-2/</guid>
-      <description>Cars are the backbone of the modern transportation system worldwide. However, the excessive number of cars tend to cause traffic accidents leading to numerous causalities. Is it possible to reduce the number of car accidents to zero? Sounds impossible, but with the use of information technology a huge impact can be made in terms of reducing the number.
-For this project, I discussed the role of IT in the prevention of car accidents in the US, in order to reduce the number of accidents through data analysis and to find effective solutions to ensure reducing the loss of life and equipment.</description>
+      <description>Data visualisation tool: Microsoft PowerBI
+In this project, I discussed the role of IT in the prevention of car accidents in the US, in order to reduce the number of accidents through data analysis and to find effective solutions to ensure reducing the loss of life and equipment.
+The dataset for this project originates from kaggle. It can be downloaded here. The dataset was donated by Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath, after being published in the article “A Countrywide Traffic Accident Dataset”</description>
     </item>
     
     <item>
