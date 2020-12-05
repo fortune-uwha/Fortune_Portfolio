@@ -6,7 +6,17 @@
     <description>Recent content in Data Science Portfolio on Fortune Oluchi Uwha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://fortune-uwha.github.io/Fortune_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://fortune-uwha.github.io/Fortune_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Kowope Mart </title>
+      <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 05 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-3/</guid>
+      <description>AIM: To help Kowope Mart to identify customers who are worthy of credit card, lines and loans by identifying which customers are at risk of defaulting in payment of loan.
+Kowope Mart is a Nigerian-based retail company with a vision to provide quality goods, education and automobile services to its customers at affordable price and reduce if not eradicate charges on card payments and increase customer satisfaction with credit rewards that can be used within the Mall.</description>
+    </item>
+    
     <item>
       <title>Project 2: Road Traffic Accident - The Modern Killer</title>
       <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-2/</link>
@@ -34,8 +44,8 @@ The FIFA World Cup, often simply called the World Cup, is an international assoc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fortune-uwha.github.io/Fortune_Portfolio/contact/</guid>
-      <description>Follow me on these social media platform.
-   Platform URL     LinkedIn: https://www.linkedin.com/in/fortune-uwha   Twitter: https://twitter.com/fortune_uwha   Github: https://github.com/fortune-uwha   Medium: https://medium.com/@fortune.uwha    </description>
+      <description>I&amp;rsquo;d love to hear from you. If you have any questions or inquires, please feel free to drop me a line. If you don&amp;rsquo;t get an answer immediately, I might just be travelling through the middle of nowhere. I&amp;rsquo;ll get back to you as soon as I can. That&amp;rsquo;s a promise!
+Your Name Email Address An email address is required.  Message   Follow me on these social media platforms</description>
     </item>
     
   </channel>
