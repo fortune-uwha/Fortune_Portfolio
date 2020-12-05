@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://fortune-uwha.github.io/Fortune_Portfolio/</loc>
-    <lastmod>2020-10-05T10:58:08-04:00</lastmod>
+    <lastmod>2020-11-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-4/</loc>
+    <lastmod>2020-11-30T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -25,13 +32,6 @@
   
   <url>
     <loc>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-1/</loc>
-    <lastmod>2020-04-21T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-4/</loc>
     <lastmod>2020-04-21T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
