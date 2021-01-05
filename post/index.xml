@@ -38,6 +38,18 @@ The dataset for this project originates from kaggle. It can be downloaded here. 
     </item>
     
     <item>
+      <title>Exploratory Data Analysis/Data Cleaning - Covid-19</title>
+      <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-5/</guid>
+      <description>This Project focuses on cleaning and analysing covid-19 case records for over 200+ countries with the main focus been the United States, Russia, Italy, Germany and China for April and May 2020.
+Action: Applied various data cleaning techniques using Python to explore the covid-19 dataset containing 181 csv files which was organised into four(4) major groups for the analysis.
+Skills/Packages Used: Numpy, Pandas, Plotly, Regex, Data Cleaning
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
       <title>Exploratory Data Analysis - The FIFA World Cup</title>
       <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-1/</link>
       <pubDate>Tue, 21 Apr 2020 10:58:08 -0400</pubDate>
