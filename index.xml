@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Fortune Oluchi Uwha</title>
+    <link>https://fortune-uwha.github.io/Fortune_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Fortune Oluchi Uwha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://fortune-uwha.github.io/Fortune_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Days of PowerBI Challenge</title>
+      <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 30 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-4/</guid>
+      <description>Microsoft PowerBI one of the best ‘drag-and-drop’ tools in the industry. You pick a field you want to analyze, drop it into the Power BI dashboard, and voila! Insights are right in front of you. The most basic version is free and can be downloaded here. But of course there’s more to PowerBI.
+In the month of November 2020, I participated in a #30DaysofPowerBI challenge brought by Cities In Codes, a Data Fellowship program comprising of activities channeled to grooming data enthusiasts into data leaders to tackle the quintillion bytes of data needs for Africa.</description>
+    </item>
+    
+    <item>
+      <title>Loan Default Prediction - Analyzing Kowope Mart Data </title>
+      <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 05 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-3/</guid>
+      <description>AIM: To help Kowope Mart to identify customers who are worthy of credit card, lines and loans by identifying which customers are at risk of defaulting in payment of loan.
+Kowope Mart is a Nigerian-based retail company with a vision to provide quality goods, education and automobile services to its customers at affordable price and reduce if not eradicate charges on card payments and increase customer satisfaction with credit rewards that can be used within the Mall.</description>
+    </item>
+    
+    <item>
+      <title>Road Traffic Accident - The Modern Killer</title>
+      <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-2/</guid>
+      <description>In this project, I discussed the role of IT in the prevention of car accidents in the US, in order to reduce the number of accidents through data analysis and to find effective solutions to ensure reducing the loss of life and equipment.
+The dataset for this project originates from kaggle. It can be downloaded here. The dataset was donated by Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath, after being published in the article “A Countrywide Traffic Accident Dataset”</description>
+    </item>
+    
+    <item>
+      <title>Data Cleaning/Exploratory Data Analysis - Covid-19</title>
+      <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-5/</guid>
+      <description>This Project focuses on cleaning and analysing covid-19 case records for over 200+ countries with the main focus been the United States, Russia, Italy, Germany and China for April and May 2020.
+Action: Applied various data cleaning techniques using Python to explore the covid-19 dataset containing 181 csv files which was organised into four(4) major groups for the analysis.
+Skills/Packages Used: Numpy, Pandas, Plotly, Regex, Data Cleaning
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis - The FIFA World Cup</title>
+      <link>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 21 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://fortune-uwha.github.io/Fortune_Portfolio/post/project-1/</guid>
+      <description>The FIFA World Cup, often simply called the World Cup, is an international association football competition contested by the senior men&amp;rsquo;s national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport&amp;rsquo;s global governing body. The championship has been awarded every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it was not held because of the Second World War.
+The Challenge:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://fortune-uwha.github.io/Fortune_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fortune-uwha.github.io/Fortune_Portfolio/contact/</guid>
+      <description>I&amp;rsquo;d love to hear from you. If you have any questions or inquires, please feel free to drop me a line. If you don&amp;rsquo;t get an answer immediately, I might just be travelling through the middle of nowhere. I&amp;rsquo;ll get back to you as soon as I can. That&amp;rsquo;s a promise!
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
